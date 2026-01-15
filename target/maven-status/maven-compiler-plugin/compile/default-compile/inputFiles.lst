@@ -1,9 +1,0 @@
-/Users/frti/springtest/src/main/java/com/manning/sbip/ch03/controller/CourseController.java
-/Users/frti/springtest/src/main/java/com/manning/sbip/ch03/CourseTrackerSpringBootApplication.java
-/Users/frti/springtest/src/main/java/com/manning/sbip/ch03/handler/CourseTrackerGlobalExceptionHandler.java
-/Users/frti/springtest/src/main/java/com/manning/sbip/ch03/service/CourseServiceImpl.java
-/Users/frti/springtest/src/main/java/com/manning/sbip/ch03/model/Course.java
-/Users/frti/springtest/src/main/java/com/manning/sbip/ch03/service/CourseService.java
-/Users/frti/springtest/src/main/java/com/manning/sbip/ch03/exception/CourseNotFoundException.java
-/Users/frti/springtest/src/main/java/com/manning/sbip/ch03/controller/SimpleController.java
-/Users/frti/springtest/src/main/java/com/manning/sbip/ch03/repository/CourseRepository.java
