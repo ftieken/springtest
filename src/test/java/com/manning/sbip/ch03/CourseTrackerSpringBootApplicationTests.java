@@ -7,10 +7,11 @@ import java.util.List;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
+
 
 import com.manning.sbip.ch03.model.Course;
 import com.manning.sbip.ch03.repository.CourseRepository;
+import org.springframework.boot.data.jpa.test.autoconfigure.DataJpaTest;
 
 @DataJpaTest
 class CourseTrackerSpringBootApplicationTests {
