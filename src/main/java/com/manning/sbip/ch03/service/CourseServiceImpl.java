@@ -5,10 +5,7 @@ import com.manning.sbip.ch03.model.Course;
 import com.manning.sbip.ch03.repository.CourseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import javax.persistence.EntityNotFoundException;
 import java.util.Optional;
-//imports
 
 @Service
 public class CourseServiceImpl implements CourseService {
